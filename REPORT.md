@@ -130,6 +130,11 @@ Each part now automatically logs the date and time it was added.
 3. Click **Save Inventory**.  
 4. The **Added At** column will display the timestamp of when the part was created.  
 
+### Update the "How to Run" section if needed
+- N/A
+
+### Add any new dependencies or setup requirements
+- N/A
 
 ## Summary
 
