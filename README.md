@@ -36,6 +36,10 @@ Document your implementation:
 - Update the "How to Run" section if needed
 - Add any new dependencies or setup requirements
 
+See the [Bug Fixes section](./REPORT.md).
+
+
+
 ### 4. Summary
 Write a brief summary including:
 - Overview of the bug fix and your debugging process
@@ -43,6 +47,8 @@ Write a brief summary including:
 - Challenges encountered and how you overcame them
 - Next steps you would take to further improve the application
 - Any assumptions made during development
+
+See the [Summary](./REPORT.md#summary)
 
 ## How to Run
 
