@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { Part } from '../types';
 
 interface PartFormProps {
-  onAddPart: (part: Omit<Part, 'id'>) => void;
+  onAddPart: (part: Omit<Part, 'id' | 'addedAt'>) => void;
 }
 
 export const PartForm: React.FC<PartFormProps> = ({ onAddPart }) => {
