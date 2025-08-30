@@ -32,6 +32,7 @@ Previously saved inventory data persisted in `localStorage`, overriding the upda
 Manually cleared stale storage with:  
 ```js
 localStorage.removeItem('parts-inventory');
+```
 
 After clearing, the UI reloaded with the updated initial dataset.
 
