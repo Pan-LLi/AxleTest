@@ -36,7 +36,7 @@ Document your implementation:
 - Update the "How to Run" section if needed
 - Add any new dependencies or setup requirements
 
-See the [Bug Fixes section](./REPORT.md).
+See the [Bug Fixes and Feature Implementation section](./REPORT.md).
 
 
 
