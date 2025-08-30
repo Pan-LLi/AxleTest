@@ -38,12 +38,6 @@ Document your implementation:
 
 See the [Bug Fixes and Feature Implementation section](./REPORT.md).
 
-### Update the "How to Run" section if needed
-- N/A
-
-### Add any new dependencies or setup requirements
-- N/A
-
 ### 4. Summary
 Write a brief summary including:
 - Overview of the bug fix and your debugging process
